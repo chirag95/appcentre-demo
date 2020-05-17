@@ -6,7 +6,7 @@ The Android application in this repository and its corresponding tutorials will 
 
 The App Center SDK modules are already integrated within the application. Simply follow the tutorials to learn how to use each service.
 
-### Build status (master branch)
+##### Build status (master branch)
 
 | Build Service   | Status                                                                                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
